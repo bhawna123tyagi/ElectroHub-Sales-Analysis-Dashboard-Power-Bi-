@@ -1,6 +1,10 @@
-                                                 Technical Stack & Skills Demonstrated
+  KEY SKILLS DEMONSTRATED
 
- Data Cleaning & ETL:Handled in Power Query. Executed column profiling, verified null values, cleaned up multi-space trailing city text (e.g., "Kanpur"), data type casting, and unified date structures.
- Data Modeling: Configured optimal 1-to-many relationship structures filtering from dimension tables down to the core fact table.
- DAX (Data Analysis Expressions): Formulated complex calculated columns and performance measures for dynamic time intelligence (YoY/MoM metrics), Top/Bottom visual rankings, and period-over-period comparisons.
- UI/UX Design: Implemented a modern, corporate dark-themed aesthetic with a clean grid layout. Leveraged high-contrast cards, conditional trend indicators, structured matrices, and clean multi-layered slicer panels for frictionless navigation.
+- Data Cleaning & Transformation
+- Missing Value Treatment
+- Data Modeling
+- DAX Calculations
+- KPI Development
+- Dashboard Design
+- Business Intelligence Reporting
+- Data Visualization
