@@ -1,0 +1,12 @@
+                                      Key Business Requirements & Features
+
+The dashboard was engineered to address 8 specific analytical goals outlines by the stakeholder requirements:
+
+ 1. Product Performance Analysis: Dynamic filtering to view the Top 5 and Bottom 5 products based on Sales, Net Profit, and Quantity Sold.
+ 2. Time-Series Analysis: Granular tracking of sales trends across varying historical horizons (Daily, Monthly, Quarterly, and Annually).
+ 3. Scatter Plot Distributions: Identifying correlations and outliers between Sales Volume and Profit Margins to evaluate healthy product margins.
+ 4. Period-over-Period Comparisons: An interactive benchmarking feature allowing users to compare sales, profits, and quantities sold between any two custom-selected time frames.
+ 5. Discount Structuring: Evaluation of the average discount rates applied across distinct promotion groups to measure margin leakage.
+ 6. Order Volume Insights: Tracking aggregate customer traffic through unique Total Orders counts.
+ 7. Granular Order Details: A comprehensive transactional matrix detailing Sales, Profit, Discount, and Net Sales per individual order, fully sliceable by Product Line, Date, Customer ID, and Promotion Category.
+ 8. Geographical Mapping: Spatial analysis identifying top-performing and underperforming distribution hubs by city and state.
